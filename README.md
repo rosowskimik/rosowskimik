@@ -24,7 +24,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-rosowskimik.vercel.app/api/top-langs?username=rosowskimik&show_icons=true&theme=onedark&locale=en&layout=compact" alt="rosowskimik" /></p>
+<p><img align="left" src="https://github-readme-stats-rosowskimik.vercel.app/api/top-langs?username=rosowskimik&show_icons=true&theme=onedark&locale=en&layout=compact&hide=html,jupyter%20notebook,css&langs_count=6" alt="rosowskimik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-rosowskimik.vercel.app/api?username=rosowskimik&show_icons=true&theme=onedark&locale=en" alt="rosowskimik" /></p>
 
